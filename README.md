@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm RUBERWA</h1>
 <h3 align="center">A passionate full stack developer from Rwanda</h3>
 
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif" alt="Coding Ani img">
+<img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp" alt="Coding Ani img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruberwa&label=Profile%20views&color=0e75b6&style=flat" alt="ruberwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ruberwa" target="blank"><img src="https://img.shields.io/twitter/follow/ruberwa?logo=twitter&style=for-the-badge" alt="ruberwa" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
 - 💬 Ask me about **Java,Spring Boot, MERN,PERN**
+
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **ruberwa3@gmail.com**
 
