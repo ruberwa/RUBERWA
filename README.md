@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm RUBERWA</h1>
-<h3 align="center">A passionate full stack developer from Rwanda</h3>
+<h3 align="center">Passionate about technology and new ways of implementation. </h3>
 
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp" alt="Coding Ani img">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruberwa" target="blank"><img src="https://img.shields.io/twitter/follow/ruberwa?logo=twitter&style=for-the-badge" alt="ruberwa" /></a> </p>
 
-- 💬 Ask me about **Java,Spring Boot, MERN,PERN**
+- 💬 Ask me about **Java, JavaScript**
 
 - 🌱 I’m currently learning **DevOps**
 
