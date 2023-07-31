@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **ruberwa3@gmail.com**
+- 📫 How to reach me **ruberwapacifique3@gmail.com**
 
 
 
