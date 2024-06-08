@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruberwa" target="blank"><img src="https://img.shields.io/twitter/follow/ruberwa?logo=twitter&style=for-the-badge" alt="ruberwa" /></a> </p>
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **JavaScript(Node(NestJS)),Java(Spring Boot) **
 
 - 🌱 I’m currently learning **DevOps**
 
