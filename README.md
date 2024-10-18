@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/your-profile-link" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-- 💬 Ask me about **Java (Spring Boot)**, **JavaScript (Node, NestJS)**, **R**, **Python**, and **Google Apps Script**.
+- 💬 Ask me about **Java (Spring Boot)**, **JavaScript (Node, NestJS, ReactJS, NextJs)**, **R**, **Python**, and **Google Apps Script**.
 - 🌱 I’m currently learning **DevOps**.
 - 📫 Feel free to reach out: **[ruberwapacifique3@gmail.com](mailto:ruberwapacifique3@gmail.com)**.
 
