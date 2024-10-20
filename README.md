@@ -56,6 +56,14 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruberwa&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruberwa&show_icons=true&locale=en" alt="GitHub stats" /></p>
+<h3 align="left">My GitHub Stats:</h3>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruberwa&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruberwa&theme=radical)
+
+
+![RUBERWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruberwa&show_icons=true&theme=radical)
+
