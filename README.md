@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/your-profile-link" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-- 💬 Ask me about **Java (Spring Boot)**, **JavaScript (Node, NestJS, ReactJS, NextJs)**, **R**, **Python**, and **Google Apps Script**.
+- 💬 Ask me about **JavaScript,TypeScript(NestJs,ReactJs)**, **Python**.
 - 🌱 I’m currently learning **AI/ML**.
 - 📫 Feel free to reach out: **[ruberwapacifique3@gmail.com](mailto:ruberwapacifique3@gmail.com)**.
 
@@ -18,14 +18,15 @@
 <hr>
 <p align="left"> 
     <strong>Languages:</strong>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    </a>
+
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+    </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
     </a>
 </p>
 
