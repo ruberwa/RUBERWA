@@ -11,7 +11,7 @@
 </p>
 
 - 💬 Ask me about **JavaScript,TypeScript(NestJs,ReactJs)**, **Python**.
-- 🌱 I’m currently learning **AI/ML**.
+- 🌱 I’m currently Emerging **AI/ML**.
 - 📫 Feel free to reach out: **[ruberwapacifique3@gmail.com](mailto:ruberwapacifique3@gmail.com)**.
 
 <h3 align="left">Languages and Tools:</h3>
